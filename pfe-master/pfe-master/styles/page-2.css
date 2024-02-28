@@ -68,6 +68,24 @@ body {
   align-items: center;
   background-color: #ff9100;
 }
+.title{
+  position:relative;
+  top: 2rem;
+  font-size: x-large;
+  left: 6rem;
+}
+.sub-title{
+  position: relative;
+  top: 2rem;
+  left: 10rem;
+}
+section{
+  background-color: #a4a8a8;
+  height: 95px;
+}
+h4{
+  font-size: large;   
+}
 .desktop-4-rjY .component-2-oen .navbar-10-9yY .auto-group-hydg-qrN {
   margin-right: 15.7rem;
   width: 78.5355rem;
